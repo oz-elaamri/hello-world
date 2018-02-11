@@ -1,0 +1,5 @@
+name: Hello World
+description: Basic "Hello World" module for drupal version 8.x
+php: 5.9
+type: module
+core: 8.x
